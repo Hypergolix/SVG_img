@@ -1,0 +1,12 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+    width="64px" height="64px"
+    xml:space="preserve">
+    <symbol id="card1" viewBox="0 0 64 64">
+      <rect rx="4" ry="4" width="64" height="44" fill="#F0C41B" stroke-width="0"/>
+      <line x1="0" y1="10" x2="64" y2="10" stroke="#806F5E" stroke-width="8"/>
+      <path stroke-dasharray="9,5" d="M7 21 l28 0" stroke="#F9EAB0" stroke-width="2.4" stroke-linecap="round"/>
+      <path stroke-dasharray="1,4,2,4" d="M7 27 l26 0" stroke="#F9EAB0" stroke-width="2.4" stroke-linecap="round"/>
+      <circle cx="46" cy="32" r="7" fill="#DB2215"/> 
+      <circle cx="53" cy="32" r="7" fill="#245EA9"/> 
+    </symbol>
+</svg>
